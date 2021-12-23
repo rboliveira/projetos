@@ -1,7 +1,7 @@
 from django.contrib import admin
-from.models import Atracoes
+from.models import Atracao
+admin.site.register(Atracao)
 
-admin.site.register(Atracoes)
 
 
 
