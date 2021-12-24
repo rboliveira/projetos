@@ -1,2 +1,2 @@
 # projetos
-Envio de projeto completo para GitHub
+Projeto API's RESTfull com Django Rest Framework
